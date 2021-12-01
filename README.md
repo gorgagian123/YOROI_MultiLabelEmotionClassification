@@ -12,6 +12,6 @@ Tugas Pemrosesan Bahasa Alami
  Pengerjaan terdiri dari CODE dan Dokumen ,Pada Folder CODE terdiri dari Code Program Kelompok YOROI di FinalCode
  Pada Folder Dokumen terdiri dari Dokumen Proposal dan Laporan Akhir dalam bentuk .PDF 
  
- Link Repo Github dapat dilihat disini : https://github.com/gorgagian123/YOROI_MultiLabelEmotionClassification/tree/master
+ Link Repo Github dapat dilihat disini,Terima Kasih : https://github.com/gorgagian123/YOROI_MultiLabelEmotionClassification/tree/master
 
 
